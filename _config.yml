@@ -1,0 +1,28 @@
+name: Darc Marc
+favicon: null
+layout_spectrum: 0.33273837505839765
+typography_spectrum: 0.25600278470665216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9205518395174295
+  lightness: 0.2355728077236563
+  saturation: 0.7393062408082187
+  rhythmicContrast: 0.3601593861822039
+purpose: []
